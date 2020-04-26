@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet.scala:27:20: not found: type Zero[0m
+[0m[[0m[31merror[0m] [0m[0m    val zero = new Zero [0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet.scala:28:15: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0m    val one = Succ(zero)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet.scala:29:15: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0m    val two = Succ(one)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet.scala:30:17: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0m    val three = Succ(two)   [0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet2.scala:1:8: not found: object example[0m
+[0m[[0m[31merror[0m] [0m[0mimport example._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet2.scala:4:24: not found: type Zero[0m
+[0m[[0m[31merror[0m] [0m[0m        val zero = new Zero [0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet2.scala:5:11: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0mval one = Succ(zero)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet2.scala:6:11: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0mval two = Succ(one)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/src/worksheet2.scala:7:13: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0mval three = Succ(two)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

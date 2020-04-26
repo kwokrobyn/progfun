@@ -1,0 +1,169 @@
+INFO  started: Metals version 0.8.3 in workspace '/Users/robyn/Desktop/recfun'
+INFO  time: initialize in 0.4s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/bsp-launcher4806274220324121399/bsp.socket'...
+Waiting for the bsp connection to come up...
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+Waiting for the bsp connection to come up...
+Apr 04, 2020 5:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Apr 04, 2020 5:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Apr 04, 2020 5:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Apr 04, 2020 5:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1-105-118a551b...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/Users/robyn/Desktop/recfun/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/robyn/Desktop/recfun/.bloop/recfun.json'
+[0m[32m[D][0m Loading project from '/Users/robyn/Desktop/recfun/.bloop/recfun-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.0.
+[0m[32m[D][0m   => /Users/robyn/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+[0m[32m[D][0m   => /Users/robyn/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0.jar
+[0m[32m[D][0m   => /Users/robyn/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar
+[0m[32m[D][0m   => /Users/robyn/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0.jar
+[0m[32m[D][0m Missing analysis file for project 'recfun'
+[0m[32m[D][0m Missing analysis file for project 'recfun-test'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/bsp-launcher4806274220324121399/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/bsp-launcher4806274220324121399/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/robyn/Library/Caches/org.scalameta.metals/bsp.trace.json
+ERROR Timeout waiting for 'build/initialize' response
+ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1784)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1928)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:259)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:203)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/test/scala/recfun/RecFunSuite.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/test/scala/recfun/RecFunSuite.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+Apr 04, 2020 5:41:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 768
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/test/scala/recfun/RecFunSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/test/scala/recfun/RecFunSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/test/scala/recfun/RecFunSuite.scala' because it doesn't belong to a build target.
+Apr 04, 2020 6:00:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1922
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Desktop/recfun/src/main/scala/recfun/RecFun.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Desktop/recfun/project/StudentTasks.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace '/Users/robyn/Documents/functional_scala/recfun'
+INFO  time: initialize in 0.41s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/bsp-launcher7770210424578442264/bsp.socket'...
+Waiting for the bsp connection to come up...
+INFO  skipping build import with status 'Dismissed'
+INFO  shutting down Metals
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/robyn/Documents/functional_scala/recfun/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/robyn/Documents/functional_scala/recfun/.bloop/recfun.json'
+[0m[32m[D][0m Loading project from '/Users/robyn/Documents/functional_scala/recfun/.bloop/recfun-test.json'
+[0m[32m[D][0m Configured SemanticDB in projects 'recfun-test', 'recfun'
+[0m[32m[D][0m Missing analysis file for project 'recfun-test'
+[0m[32m[D][0m Missing analysis file for project 'recfun'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/bsp-launcher7770210424578442264/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/bsp-launcher7770210424578442264/bsp.socket...

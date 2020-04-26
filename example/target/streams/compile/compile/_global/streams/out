@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/worksheet.scala:29:20: not found: type Zero[0m
+[0m[[0m[31merror[0m] [0m[0m    val zero = new Zero [0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/worksheet.scala:30:15: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0m    val one = Succ(zero)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/worksheet.scala:31:15: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0m    val two = Succ(one)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/example/worksheet.scala:32:17: not found: value Succ[0m
+[0m[[0m[31merror[0m] [0m[0m    val three = Succ(two)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

@@ -1,0 +1,332 @@
+INFO  started: Metals version 0.8.3 in workspace '/Users/robyn/Documents/functional_scala/short'
+INFO  time: initialize in 0.35s
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+Apr 08, 2020 8:59:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+Apr 08, 2020 9:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 229
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.2.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.2.scala
+Apr 08, 2020 9:30:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:408)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:93)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:139)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Apr 08, 2020 9:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:408)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:93)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:139)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.2.scala in week4.List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.2.scala, 135, 135, 149)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.2.scala in week4.List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.2.scala, 152, 152, 166)
+Apr 08, 2020 9:32:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1337
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.2.scala in week4.List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.2.scala, 211, 211, 225)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.2.scala
+Apr 08, 2020 9:35:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1833
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.2.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+Apr 08, 2020 11:24:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:408)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:93)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:139)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Apr 08, 2020 11:24:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:408)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:93)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:139)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+Apr 08, 2020 11:37:17 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -10
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/patterns4.6.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+Apr 08, 2020 12:08:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:408)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:93)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:139)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 33, 33, 47)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 33, 33, 40)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 33, 33, 42)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 33, 33, 42)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 33, 33, 42)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 177, 177, 191)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 177, 177, 184)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 177, 177, 186)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 177, 177, 186)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 177, 177, 186)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+Apr 08, 2020 12:12:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/short/lists4.7.scala, 177, 177, 186)
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/robyn/Documents/functional_scala/short'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/short/lists4.7.scala
+INFO  shutting down Metals

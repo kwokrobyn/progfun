@@ -1,0 +1,18 @@
+test
+scala
+test
+ def decode(tree: CodeTree, bits: List[Bit]): List[Char] = {
+    def decodeHelper(subtree: CodeTree, bits: List[Bit], acc: List[Char]): List[Char] = subtree match {
+      case x: Fork => decodeHelper(if (bits.head == 0) x.left else x.right, bits.tail, acc) 
+      case y: Leaf => if (bits.isEmpty) y.char :: acc else decodeHelper(tree, bits.tail, y.char :: acc)
+    }
+    decodeHelper(tree, bits, List()).reverse
+test
+compile
+run
+test
+TEST
+test
+submit jiingwen@live.com 26vzyg2dEZDoIiFX
+quit
+exit

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:77:45: not found: value h1[0m
+[0m[[0m[31merror[0m] [0m[0m    isEqual(meld(h, m), insert(y, insert(x, h1)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

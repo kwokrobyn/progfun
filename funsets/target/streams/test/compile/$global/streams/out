@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala:127:11: f2 is already defined as value f2[0m
+[0m[[0m[31merror[0m] [0m[0m      val f2: FunSet = x => (x == 4 || x == 6 || x == 2)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

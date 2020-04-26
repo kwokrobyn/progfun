@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.0":{"hashes":[["/Users/robyn/Documents/functional_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala","d87d0970bf4c609531351f09bf6daea05e8acfce"]],"lastModifiedTimes":[]}}]

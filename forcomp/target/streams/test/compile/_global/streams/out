@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala:97:13: unclosed quoted identifier[0m
+[0m[[0m[31merror[0m] [0m[0m  @Test def `[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/robyn/Documents/functional_scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala:100:75: procedure syntax is deprecated: instead, add `: Unit` to explicitly declare `<error>`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  @Rule def individualTestTimeout = new org.junit.rules.Timeout(10 * 1000)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

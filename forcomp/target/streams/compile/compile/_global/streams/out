@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn/Documents/functional_scala/forcomp/src/main/scala/forcomp/Anagrams.scala:163:14: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[List[java.io.Serializable]][0m
+[0m[[0m[31merror[0m] [0m[0m required: Option[forcomp.Anagrams.Sentence][0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  Option[List[String]][0m
+[0m[[0m[31merror[0m] [0m[0m        rest <- anaHelper(subtract(occsLeft, comb))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

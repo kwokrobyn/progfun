@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Robyns-MacBook-Pro.local" name="funsets.FunSetSuite" tests="9" errors="0" failures="1" skipped="0" time="0.152" timestamp="2020-04-06T19:35:58">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.241-b07"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/robyn/Documents/functional_scala/funsets"/><property name="java.runtime.version" value="1.8.0_241-b07"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/jna-108686234/jna2934358387851906384.tmp"/><property name="java.library.path" value="/Users/robyn/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.15.2"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/robyn"/><property name="user.timezone" value="Asia/Singapore"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/robyn/.sdkman/candidates/sbt/1.3.9/bin/sbt-launch.jar"/><property name="user.name" value="robyn"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/robyn/.sdkman/candidates/sbt/1.3.9/bin/sbt-launch.jar"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_241"/><property name="java.ext.dirs" value="/Users/robyn/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="funsets.FunSetSuite" name="intersect contains common elements of each set" time="0.079">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="exist works" time="0.005">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="diff contains elems in s not in t" time="0.002">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="forall works" time="0.003">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="singleton set one contains one" time="0.001">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="union contains all elements of each set" time="0.002">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="singleton set one does not contain two" time="0.002">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="contains is implemented" time="0.008">
+                                                 
+                                               </testcase><testcase classname="funsets.FunSetSuite" name="map works" time="0.05">
+                                                 <failure message="java.lang.AssertionError: assertion failed: map 1" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: assertion failed: map 1
+	at scala.Predef$.assert(Predef.scala:282)
+	at funsets.FunSetSuite$$anon$8.&lt;init&gt;(FunSetSuite.scala:130)
+	at funsets.FunSetSuite.map$u0020works(FunSetSuite.scala:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$StatementThread.run(FailOnTimeout.java:74)
+</failure>
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

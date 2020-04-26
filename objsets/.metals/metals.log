@@ -1,0 +1,163 @@
+INFO  started: Metals version 0.8.3 in workspace '/Users/robyn/Documents/functional_scala/objsets'
+INFO  time: initialize in 0.41s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSetInterface.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSetInterface.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+Apr 07, 2020 7:49:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 640
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+INFO  skipping build import with status 'Dismissed'
+Apr 07, 2020 8:18:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1698
+Apr 07, 2020 8:18:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1745
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+Apr 07, 2020 8:47:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3502
+Apr 07, 2020 8:52:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3851
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+Apr 07, 2020 8:54:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4018
+Apr 07, 2020 8:55:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4330
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSetInterface.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetReader.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetReader.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+Apr 07, 2020 9:22:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5711
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+Apr 07, 2020 9:23:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5825
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+Apr 07, 2020 9:36:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5988
+WARN  no build target for: /Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/objsets/src/main/scala/objsets/TweetSet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+Apr 07, 2020 10:03:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:408)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:93)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:139)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Apr 07, 2020 10:07:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6706
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/worksheet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/worksheet.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/worksheet.scala
+Apr 07, 2020 10:33:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/worksheet.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/worksheet.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals

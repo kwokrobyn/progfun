@@ -1,0 +1,151 @@
+INFO  started: Metals version 0.8.3 in workspace '/Users/robyn/Documents/functional_scala/funsets'
+INFO  time: initialize in 0.42s
+INFO  running '/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/gj/hbh17lwj7750c1vzzftj48mw0000gn/T/metals7028674734826252805/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+INFO  skipping build import with status 'Started'
+ERROR Getting org.scala-sbt sbt 1.2.8  (this may take some time)...
+INFO  :: retrieving :: org.scala-sbt#boot-app
+INFO  	confs: [default]
+INFO  	80 artifacts copied, 0 already retrieved (28561kB/199ms)
+ERROR Getting Scala 2.12.7 (for sbt)...
+INFO  :: retrieving :: org.scala-sbt#boot-scala
+INFO  	confs: [default]
+INFO  	5 artifacts copied, 0 already retrieved (19715kB/41ms)
+INFO  [info] Loading settings for project funsets-build from plugins.sbt,metals.sbt,buildSettings.sbt ...
+INFO  [info] Loading project definition from /Users/robyn/Documents/functional_scala/funsets/project
+INFO  [info] Updating ProjectRef(uri("file:/Users/robyn/Documents/functional_scala/funsets/project/"), "funsets-build")...
+INFO  user cancelled build import
+INFO  time: ran 'sbt bloopInstall' in 41s
+INFO  build tool exit: 143
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/Main.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+Apr 05, 2020 9:28:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1410
+Apr 05, 2020 9:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1510
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+Apr 05, 2020 9:47:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2951
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/Main.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSetsInterface.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+Apr 06, 2020 7:28:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4770
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/main/scala/funsets/FunSets.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/funsets/src/test/scala/funsets/FunSetSuite.scala
+INFO  shutting down Metals

@@ -1,0 +1,10 @@
+test
+scutil --set HostName $(scutil --get LocalHostName)
+sudo scutil --set HostName $(scutil --get LocalHostName)
+scutil --set HostName $(scutil --get LocalHostName)
+scutil --set HostName
+clear
+clean
+test
+submit jiingwen@live.com rE4lZhl5cL44B49M
+exit

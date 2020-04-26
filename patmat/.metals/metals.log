@@ -1,0 +1,542 @@
+INFO  started: Metals version 0.8.3 in workspace '/Users/robyn/Documents/functional_scala/patmat'
+INFO  time: initialize in 0.7s
+INFO  skipping build import with status 'Dismissed'
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/project/StudentTasks.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala
+Apr 08, 2020 12:44:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 295
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2582, 2582, 2596)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2582, 2582, 2598)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2587, 2587, 2602)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2548)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2542)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2548)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2550)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2544)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2546)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2539, 2539, 2555)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2621, 2621, 2745)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2621, 2621, 2745)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2534, 2534, 2551)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in () => <error>RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2465, 2467, 8562)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in () => <error>RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2465, 2467, 8562)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in () => <error>RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2466, 2468, 8563)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in () => <error>RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2466, 2468, 8563)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2579, 2579, 2596)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2579, 2579, 2596)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, Int)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2584, 2584, 2595)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2579, 2579, 2632)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2579, 2579, 2602)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, Int)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 2584, 2584, 2595)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 1:42:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3186
+Apr 08, 2020 1:44:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3509
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3194)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3187)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3300)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3194)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3196)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3190)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3185, 3185, 3200)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, Int)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3185, 3185, 3196)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3197)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3180, 3180, 3197)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 1:47:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3997
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, Int)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3216, 3216, 3227)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3095, 3095, 3112)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[(Char, Int)]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 3095, 3095, 3112)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 2:02:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4715
+Apr 08, 2020 2:07:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5319
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 2:23:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6104
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+Apr 08, 2020 2:35:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6578
+Apr 08, 2020 2:35:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6579
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5407, 5407, 5421)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5407, 5407, 5414)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5407, 5407, 5416)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5407, 5407, 5417)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5407, 5407, 5417)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5407, 5407, 5417)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5424, 5424, 5438)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5424, 5424, 5431)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5424, 5424, 5434)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5424, 5424, 5434)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 5424, 5424, 5434)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 2:55:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8314
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8131, 8131, 8140)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8109)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8102)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8112, 8112, 8126)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8112, 8112, 8120)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8112, 8112, 8121)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8112, 8112, 8121)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8112, 8112, 8121)
+Apr 08, 2020 3:06:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9011
+Apr 08, 2020 3:06:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9012
+Apr 08, 2020 3:06:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9013
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8109)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8102)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8095, 8095, 8105)
+Apr 08, 2020 3:12:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9527
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in () => <error>RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8337, 8339, 8342)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 3:20:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: -9
+java.lang.StringIndexOutOfBoundsException: String index out of range: -9
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.internal.Trees.$anonfun$itraverse$3(Trees.scala:1367)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2515)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1367)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1238)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseTrees$1(Trees.scala:2492)
+	at scala.reflect.api.Trees$Traverser.traverseTrees(Trees.scala:2492)
+	at scala.reflect.internal.Trees.traverseComponents$1(Trees.scala:1322)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1368)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1238)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.internal.Trees.traverseComponents$1(Trees.scala:1332)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1368)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1238)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 8103, 8103, 8112)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 3:23:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10377
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 3:26:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10587
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9424, 9424, 9438)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9424, 9424, 9431)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9424, 9424, 9433)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9424, 9424, 9433)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9424, 9424, 9433)
+Apr 08, 2020 3:35:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: -7
+java.lang.StringIndexOutOfBoundsException: String index out of range: -7
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseTrees$1(Trees.scala:2492)
+	at scala.reflect.api.Trees$Traverser.traverseTrees(Trees.scala:2492)
+	at scala.reflect.internal.Trees.traverseComponents$1(Trees.scala:1322)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1368)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1238)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.internal.Trees.$anonfun$itraverse$3(Trees.scala:1367)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2515)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1367)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1238)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 3:37:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11549
+Apr 08, 2020 3:39:25 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9242, 9242, 9256)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9242, 9242, 9249)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9242, 9242, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9242, 9242, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Char]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9242, 9242, 9252)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9254)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9254)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9243, 9243, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9254)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9254)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, List[Int])RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9254)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9243, 9243, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Int]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9243, 9243, 9252)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9249)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9249)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9239, 9239, 9249)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+Apr 08, 2020 3:47:04 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9446, 9446, 9460)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9446, 9446, 9453)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[<error>]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9446, 9446, 9454)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in List[Huffman.this.Bit]RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9446, 9446, 9455)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (Char, List[Huffman.this.Bit]) => (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9439, 9457, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9488)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9488)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9490)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9490)
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9487)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9487)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9490)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9490)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9491)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9491)
+something's wrong: no file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala in (<error>, <error>)RangePosition(file:///Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala, 9460, 9460, 9480)
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/robyn/Documents/functional_scala/patmat/src/main/scala/patmat/Huffman.scala
+INFO  shutting down Metals

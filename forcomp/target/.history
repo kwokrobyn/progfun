@@ -1,0 +1,11 @@
+test
+scutil --set HostName $(scutil --get LocalHostName)
+scutil --set HostName $(scutil --get LocalHostName);
+scutil --set HostName $(scutil --get LocalHostName);'
+scutil --set HostName $(scutil --get LocalHostName);;
+test
+submit jiingwen@live.com Cv1NzZIXgaIb0uZg
+test
+tes
+test
+submit jiingwen@live.com uD0qaUms7q4ZL7et
